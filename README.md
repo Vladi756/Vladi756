@@ -5,15 +5,15 @@
 <h3 align="center">Reach me at: </h3>
 <p align="center">
 <a
- href="https://linkedin.com/in/kbhatti5924" target="blank"><img 
+ href="https://www.linkedin.com/in/vladislav-kostic-4b9b571b9/" target="blank"><img 
 align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
- alt="kbhatti5924" /></a>
+ alt="Vladi756" /></a>
 <a 
-href="https://www.hackerrank.com/k1874" target="blank"><img 
+href="https://www.hackerrank.com/vkostic756" target="blank"><img 
 align="center" 
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
- alt="k1874"/></a></p>
+ alt="Vladi756"/></a></p>
 
 ## Statistics
 
