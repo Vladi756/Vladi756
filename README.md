@@ -6,7 +6,7 @@
 <h3 align="center">Reach me at: </h3>
 <p align="center">
 <a
- href="https://www.linkedin.com/in/vladislav-kostic-4b9b571b9/" target="blank"><img 
+ href="https://www.linkedin.com/in/vladislav-kostic-4b9b571b9/" target="parent"><img 
 align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
  alt="Vladi756" /></a>
