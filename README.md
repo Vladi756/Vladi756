@@ -1,7 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Vladislav Kostic </strong> </em>
 
-<p>I am a hardworking Computer Science student pursuing a degree in Computer Science and looking for a year long placement opportunity to gain new skills and experience in the
- industry.</p>
+<p>I am a passionate, hardworking and ambitious Computer Science student pursuing a degree in Computer Science and looking for a year long placement opportunity to gain new skills and experience in the industry.</p>
 
 <h3 align="center">Reach me at: </h3>
 <p align="center">
