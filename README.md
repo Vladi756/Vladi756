@@ -2,6 +2,19 @@
 
 <p>I am a hardworking Computer Science student pursuing a degree in Computer Science and looking for a year long placement opportunity.</p>
 
+<h3 align="center">Reach me at: </h3>
+<p align="center">
+<a
+ href="https://linkedin.com/in/kbhatti5924" target="blank"><img 
+align="center" 
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+ alt="kbhatti5924" /></a>
+<a 
+href="https://www.hackerrank.com/k1874" target="blank"><img 
+align="center" 
+src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+ alt="k1874"/></a></p>
+
 ## Statistics
 
 <a href="https://github.com/Vladi756">
