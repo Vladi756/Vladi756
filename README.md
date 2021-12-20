@@ -14,6 +14,10 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
 align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
  alt="Vladi756" /></a>
+ <a href="https://stackoverflow.com/users/14695117/wacy" target="blank"><img 
+align="center" 
+src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+ alt="stackoverflow" /></a>
 </p>
 
 ## Statistics
