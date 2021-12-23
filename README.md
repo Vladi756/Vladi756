@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
  <a href="https://stackoverflow.com/users/14695117/wacy" target="blank"><img 
 align="center" 
 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
- alt="stackoverflow" /></a>
+ alt="Vladi756" /></a>
 </p>
 
 ## Statistics
