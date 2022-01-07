@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Vladi</strong> </em>
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Vladi!</strong> </em>
 
 <p>I am a passionate, hardworking and ambitious Computer Science student pursuing a degree in Computer Science and looking for a year long placement opportunity to gain new skills and experience in the industry.</p>
 
