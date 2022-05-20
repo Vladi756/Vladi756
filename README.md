@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Vladi!</strong> </em>
 
-<p>I am a hardworking, passionate and ambitious Computer Science student pursuing a degree in Computer Science and looking for a year long placement opportunity to gain new skills and experience in the industry.</p>
+<p>I am a hardworking, passionate and ambitious Computer Science student pursuing a degree in Computer Science.</p>
 
 <h3 align="center">Reach me at: </h3>
 <p align="center">
