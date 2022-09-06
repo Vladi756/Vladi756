@@ -1,6 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Vladi!</strong> </em>
 
-<p>I am a hardworking, passionate and ambitious student pursuing a degree in Computer Science.</p>
 
 <h3 align="center">Reach me at: </h3>
 <p align="center">
