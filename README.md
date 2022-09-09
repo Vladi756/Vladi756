@@ -1,5 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Vladi!</strong> </em>
 
+![](https://komarev.com/ghpvc/?username=Vladi756)
 
 <h3 align="center">Reach me at: </h3>
 <p align="center">
