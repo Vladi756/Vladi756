@@ -9,6 +9,11 @@ href="https://www.hackerrank.com/vkostic756" target="_blank"><img
 align="center" 
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
  alt="Vladi756"/></a>
+ <a 
+href="https://leetcode.com/Wacy/" target="_blank"><img 
+align="center" 
+src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
+alt="Vladi756"/></a>
 <a
  href="https://www.linkedin.com/in/vladislav-kostic-4b9b571b9/" target="_blank"><img 
 align="center" 
