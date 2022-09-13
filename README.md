@@ -18,6 +18,7 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 align="center" 
 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
  alt="Vladi756" /></a>
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Vladi756&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="Vladi756's GitHub Streak"></a>
 </p>
 
 ## Statistics
