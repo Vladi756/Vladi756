@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Vladi756)
 
-<h3 align="center">Reach me at: </h3>
+<h3 align="center">Connect With Me! </h3>
 <p align="center">
 <a 
 href="https://www.hackerrank.com/vkostic756" target="_blank"><img 
