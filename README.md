@@ -28,7 +28,7 @@ src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo
 ## Statistics
 
 <a href="https://github.com/Vladi756">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladi756tex&title_color=ffffff&count_private=false&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladi756)](https://github.com/Vladi756/github-readme-stats)
 </a>
 
 <a href="https://github.com/Vladi756">
